@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Viorel 👋
 
 <!--
 **cviorel/cviorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me
+
+- 📫 How to reach me:
+  - [🕊 - Twitter](https://twitter.com/viorelciucu)
+  - [🏢 - LinkedIn](https://www.linkedin.com/in/cviorel/)
+  - [🦑 - GitHub](https://github.com/cviorel)
+
+[![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviorel&show_icons=true&theme=nightowl)](https://github.com/cviorel/github-readme-stats)
