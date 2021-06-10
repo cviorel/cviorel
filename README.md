@@ -1,5 +1,7 @@
 ### Hi there, I'm Viorel 👋
 
+I am a DBA and a Devops Enginner
+
 <!--
 **cviorel/cviorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 ## Connect with me
 
 - 📫 How to reach me:
+  - [🏠 - Blog](https://www.cviorel.com/)
   - [🕊 - Twitter](https://twitter.com/viorelciucu)
   - [🏢 - LinkedIn](https://www.linkedin.com/in/cviorel/)
   - [🦑 - GitHub](https://github.com/cviorel)
