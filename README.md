@@ -1,6 +1,6 @@
 ### Hi there, I'm Viorel 👋
 
-I am a DBA and a Devops Enginner
+I am a Database Engineer and I love automation!
 
 <!--
 **cviorel/cviorel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
