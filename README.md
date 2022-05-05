@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviorel&show_icons=true&theme=nightowl)](https://github-readme-stats.vercel.app/api?username=cviorel&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviorel&layout=compact&&langs_count=10)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviorel&layout=compact&&langs_count=10)](https://github-readme-stats.vercel.app/api/top-langs/?username=cviorel&layout=compact&&langs_count=10)
