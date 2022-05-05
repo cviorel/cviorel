@@ -25,4 +25,6 @@ Here are some ideas to get you started:
   - [🏢 - LinkedIn](https://www.linkedin.com/in/cviorel/)
   - [🦑 - GitHub](https://github.com/cviorel)
 
-[![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviorel&show_icons=true&theme=nightowl)](https://github.com/cviorel/github-readme-stats)
+[![Viorel's GitHub stats](https://github-readme-stats.vercel.app/api?username=cviorel&show_icons=true&theme=nightowl)](https://github-readme-stats.vercel.app/api?username=cviorel&show_icons=true&theme=nightowl)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cviorel&layout=compact&&langs_count=10)]
